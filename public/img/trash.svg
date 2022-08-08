@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="trash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M75,119 L438,119" id="Path-3" stroke="#9B9B9B" stroke-width="34" stroke-linecap="round" fill-rule="nonzero"></path>
+        <polyline id="Path-4" stroke="#9B9B9B" stroke-width="34" stroke-linejoin="round" fill-rule="nonzero" points="154 112 199.555556 46 313.444444 46 359 112"></polyline>
+        <path d="M98,126 L98,437 C98,457 108,467 128,467 C158,467 355,467 385,467 C405,467 415,457 415,437 L415,126" id="Path-5" stroke="#9B9B9B" stroke-width="34" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <g id="Group" transform="translate(194.000000, 188.000000)" fill-rule="nonzero" stroke="#9B9B9B" stroke-linecap="round" stroke-width="30">
+            <path d="M1.15,0 L1.15,193" id="Path-6"></path>
+            <path d="M122,0 L122,193" id="Path-6"></path>
+        </g>
+    </g>
+</svg>

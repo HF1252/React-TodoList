@@ -1,0 +1,23 @@
+{
+  "todo": [
+    {
+      "done": false,
+      "id": 1,
+      "todoTitle": "掃除をする"
+    },
+    {
+      "done": true,
+      "id": 2,
+      "todoTitle": "洗濯をする"
+    },
+    {
+      "done": true,
+      "id": 3,
+      "todoTitle": "ペットに餌をあげる"
+    },
+    {
+      "done": true,
+      "id": 4
+    }
+  ]
+}
